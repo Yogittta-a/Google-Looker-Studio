@@ -50,7 +50,7 @@ This internship project focuses on building a **real-time, interactive sales das
  
 ## 🚀 Deployment & Links
 - ✅Live Dashboard: [View on Looker Studio](https://lookerstudio.google.com/reporting/fdf8941a-28cc-491c-a5f3-67f9c232112f)
--  GitHub Repository: [Project Files](https://github.com/Yogittaa-a/job-analytics-portal/tree/main)
+-  GitHub Repository: [Project Files](https://github.com/Yogittta-a/Google-Looker-Studio)
 
 ## 🧠 Conclusion
 This internship gave me hands-on experience in end-to-end data analysis: from cleaning raw data, querying in SQL, visualizing in Looker Studio, to deploying the results online. I improved my technical and analytical thinking, and built a real-world project ready to be showcased to recruiters and stakeholders.
